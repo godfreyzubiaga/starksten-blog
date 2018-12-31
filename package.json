@@ -1,11 +1,11 @@
 {
-  "name": "gatsby-starter-blog",
+  "name": "starksten-blog",
   "private": true,
-  "description": "A starter for a blog powered by Gatsby and Markdown",
+  "description": "A journey of a simple man living in a fancy world.",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Godfrey Zubiaga <godfreyzubiaga@gmail.com>",
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://github.com/godfreyzubiaga/starksten-blog/issues"
   },
   "dependencies": {
     "gatsby": "^2.0.76",
@@ -40,15 +40,17 @@
     "eslint-plugin-react": "^7.11.1",
     "prettier": "^1.14.2"
   },
-  "homepage": "https://github.com/gatsbyjs/gatsby-starter-blog#readme",
+  "homepage": "https://github.com/godfreyzubiaga/starksten-blog#readme",
   "keywords": [
-    "gatsby"
+    "starksten",
+    "gatsby",
+    "blog"
   ],
   "license": "MIT",
   "main": "n/a",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gatsbyjs/gatsby-starter-blog.git"
+    "url": "git+https://github.com/godfreyzubiaga/starksten-blog.git"
   },
   "scripts": {
     "dev": "gatsby develop",

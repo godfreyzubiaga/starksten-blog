@@ -1,21 +1,19 @@
 ---
 title: Hello World
-date: '2015-05-01T22:12:03.284Z'
+date: '2018-12-31T13:33:29.784Z'
 ---
 
-This is my first post on my new fake blog! How exciting!
+> `>_ Hello World`
 
-I'm sure I'll write a lot more interesting things in the future.
+The first successful output of a program of every developer around the world.
 
-Oh, and here's a great quote from this Wikipedia on
-[salted duck eggs](http://en.wikipedia.org/wiki/Salted_duck_egg).
+This is my first post in this blog. Don't worry, as the statement above, this is just the beginning of my story.
 
-> A salted duck egg is a Chinese preserved food product made by soaking duck
-> eggs in brine, or packing each egg in damp, salted charcoal. In Asian
-> supermarkets, these eggs are sometimes sold covered in a thick layer of salted
-> charcoal paste. The eggs may also be sold with the salted paste removed,
-> wrapped in plastic, and vacuum packed. From the salt curing process, the
-> salted duck eggs have a briny aroma, a gelatin-like egg white and a
-> firm-textured, round yolk that is bright orange-red in color.
+Oh, and here's a great thought from [r/programmerhumor](https://www.reddit.com/r/ProgrammerHumor) -
+[ZERO is the answer](https://www.reddit.com/r/ProgrammerHumor/comments/80hu7d/zero/).
 
-![Chinese Salty Egg](./salty_egg.jpg)
+> Zero is also the number of mailing lists I’ve wanted to join within the first 5 seconds of visiting a site.
+
+> Zero is also the number of websites I want to enable notifications for.
+
+![Zero](./reddit_zero.png)
